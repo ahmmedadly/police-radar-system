@@ -4,11 +4,8 @@ This repository contains a prototype implementation of a police radar system wit
 
 ### Key Features:
 - **Signal Processing and Speed Detection:** Utilizing FPGA and UART communication, the system processes signals to determine vehicle speed.
-
 - **Image Processing:** Advanced image processing techniques are implemented to enhance the accuracy of vehicle identification.
-
 - **Database Integration:** A database is created to store information about registered vehicles, allowing for efficient lookup during speed detection.
-
 - **Automated Speed Ticketing:** Upon detecting a speeding vehicle, the system connects to a software application, retrieves the car owner's information, and sends a speed ticket via Twilio.
 
 ### Workflow:
@@ -21,5 +18,8 @@ This repository contains a prototype implementation of a police radar system wit
 ### Usage:
 To use this prototype, follow the setup instructions in the provided documentation. Ensure that the necessary dependencies, such as Twilio, are configured correctly.
 
-### Contribution Guidelines:
-We welcome contributions to enhance the functionality and efficiency of the police radar prototype. If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md), and feel free to submit pull requests or report issues.
+### Project link:
+- [Link to File 1 (Large File)]([Google_Drive_Link_To_File_1](https://drive.google.com/drive/folders/1QVX5Veg-9GLaYCdetXt3PNXMIw9OtU3k?usp=sharing)https://drive.google.com/drive/folders/1QVX5Veg-9GLaYCdetXt3PNXMIw9OtU3k?usp=sharing)
+
+
+
