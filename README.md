@@ -19,7 +19,6 @@ This repository contains a prototype implementation of a police radar system wit
 To use this prototype, follow the setup instructions in the provided documentation. Ensure that the necessary dependencies, such as Twilio, are configured correctly.
 
 ### Project link:
-- [Link to File 1 (Large File)]([Google_Drive_Link_To_File_1](https://drive.google.com/drive/folders/1QVX5Veg-9GLaYCdetXt3PNXMIw9OtU3k?usp=sharing)https://drive.google.com/drive/folders/1QVX5Veg-9GLaYCdetXt3PNXMIw9OtU3k?usp=sharing)
-
+- [Link to File 1 (https://drive.google.com/drive/folders/1QVX5Veg-9GLaYCdetXt3PNXMIw9OtU3k?usp=sharing)
 
 
